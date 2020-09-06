@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/hklchung/AlgorithmicStockTrading">
-    <img src="https://thumbs.gfycat.com/EuphoricIcyAmericanshorthair-size_restricted.gif" height="100">
+    <img src="https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif" height="100">
   </a>
 
   <h3 align="center">Algorithmic Stock Trading</h3>
